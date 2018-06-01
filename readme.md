@@ -16,6 +16,17 @@ This addon can be configured ingame. Please visit the `Interface > Addon` settin
 
 English will be the default language. The language will be choosen depending of your game client language setting.
 
+## Special Thanks
+- Vishous@Alleria (Beta test)
+
+## Example Pictures
+
+![Example 1](example.png)
+
+![Example 2](example2.png)
+
+![Example 3](example3.png)
+
 ---
 
 ## Things todo before version 1.0.0 release:
