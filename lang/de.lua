@@ -1,0 +1,75 @@
+QhunUnitHealth.TranslationValues.de = {
+    --[[
+        ADDON SPECIFIC
+    ]]
+    ADDON_LOAD_SUCCESS = "_name_ _version_ erfolgreich geladen!",
+    --[[
+        NUMBER FORMAT
+    ]]
+    UNIT_FRAME_THOUSAND_ENDING = " K",
+    UNIT_FRAME_MILLION_ENDING = " M",
+    --[[
+        SETTINGS
+    ]]
+    -- main
+    SETTINGS_MAIN_ENTRY = "Hier kannst du Einstellungen für alle Ziele festlegen. Sämtliche Einstellungen sind\nCharakter- und Realmübergreifend.",
+    SETTINGS_MAIN_ENABLE_DISABLE_FEATURES = "Aktivieren bzw. deaktivieren von Anzeigen",
+    SETTINGS_MAIN_ENABLE_PLAYER = "Spieler",
+    SETTINGS_MAIN_ENABLE_TARGET = "Ziel",
+    SETTINGS_MAIN_ENABLE_TARGET_OF_TARGET = "Ziel des Ziels",
+    SETTINGS_MAIN_ENABLE_FOCUS = "Fokus",
+    SETTINGS_MAIN_ENABLE_PARTY = "Gruppe",
+    SETTINGS_MAIN_OTHER_SETTINGS = "Weitere globale Einstellungen",
+    SETTINGS_MAIN_DIVIDER_TEXT = "Das Trennzeichen dient der Trennung zwischen dem numerischen Wert und der\nProzentzahl. Es können auch Leerzeichen vor und hinter einem beliebigen Trenner\neingegeben werden.",
+    SETTINGS_MAIN_DIVIDER = "Trennzeichen",
+    -- player
+    SETTINGS_PLAYER_NAME = "Spieler",
+    SETTINGS_PLAYER_ENTRY = "Dies sind Einstellungen die lediglich die Anzeige auf dem Spieler anpassen.",
+    SETTINGS_PLAYER_PERCENTAGE_HEALTH = "Zeige Prozentzahl bei Leben",
+    SETTINGS_PLAYER_PERCENTAGE_POWER = "Zeige Prozentzahl bei Resource",
+    SETTINGS_PLAYER_READABLE = "Vereinfache die Darstellung größerer Zahlen",
+    SETTINGS_PLAYER_SIZE_HEALTH = "Schriftgröße Leben",
+    SETTINGS_PLAYER_SIZE_POWER = "Schriftgröße Resource",
+    SETTINGS_PLAYER_ALPHA = "Transparenz",
+    SETTINGS_PLAYER_DECIMALS = "Dezimalstellen",
+    -- target
+    SETTINGS_TARGET_NAME = "Ziel",
+    SETTINGS_TARGET_ENTRY = "Dies sind Einstellungen die lediglich die Anzeige auf dem Ziel anpassen.",
+    SETTINGS_TARGET_PERCENTAGE_HEALTH = "@@SETTINGS_PLAYER_PERCENTAGE_HEALTH",
+    SETTINGS_TARGET_PERCENTAGE_POWER = "@@SETTINGS_PLAYER_PERCENTAGE_POWER",
+    SETTINGS_TARGET_READABLE = "@@SETTINGS_PLAYER_READABLE",
+    SETTINGS_TARGET_SIZE_HEALTH = "@@SETTINGS_PLAYER_SIZE_HEALTH",
+    SETTINGS_TARGET_SIZE_POWER = "@@SETTINGS_PLAYER_SIZE_POWER",
+    SETTINGS_TARGET_ALPHA = "@@SETTINGS_PLAYER_ALPHA",
+    SETTINGS_TARGET_DECIMALS = "@@SETTINGS_PLAYER_DECIMALS",
+    -- target of target
+    SETTINGS_TARGET_OF_TARGET_NAME = "Ziel des Ziels",
+    SETTINGS_TARGET_OF_TARGET_ENTRY = "Dies sind Einstellungen die lediglich die Anzeige auf dem Ziel des Ziels anpassen.",
+    SETTINGS_TARGET_OF_TARGET_PERCENTAGE_HEALTH = "@@SETTINGS_PLAYER_PERCENTAGE_HEALTH",
+    SETTINGS_TARGET_OF_TARGET_PERCENTAGE_POWER = "@@SETTINGS_PLAYER_PERCENTAGE_POWER",
+    SETTINGS_TARGET_OF_TARGET_READABLE = "@@SETTINGS_PLAYER_READABLE",
+    SETTINGS_TARGET_OF_TARGET_SIZE_HEALTH = "@@SETTINGS_PLAYER_SIZE_HEALTH",
+    SETTINGS_TARGET_OF_TARGET_SIZE_POWER = "@@SETTINGS_PLAYER_SIZE_POWER",
+    SETTINGS_TARGET_OF_TARGET_ALPHA = "@@SETTINGS_PLAYER_ALPHA",
+    SETTINGS_TARGET_OF_TARGET_DECIMALS = "@@SETTINGS_PLAYER_DECIMALS",
+    -- focus
+    SETTINGS_FOCUS_NAME = "Fokusziel",
+    SETTINGS_FOCUS_ENTRY = "Dies sind Einstellungen die lediglich die Anzeige auf dem Fokusziel anpassen.",
+    SETTINGS_FOCUS_PERCENTAGE_HEALTH = "@@SETTINGS_PLAYER_PERCENTAGE_HEALTH",
+    SETTINGS_FOCUS_PERCENTAGE_POWER = "@@SETTINGS_PLAYER_PERCENTAGE_POWER",
+    SETTINGS_FOCUS_READABLE = "@@SETTINGS_PLAYER_READABLE",
+    SETTINGS_FOCUS_SIZE_HEALTH = "@@SETTINGS_PLAYER_SIZE_HEALTH",
+    SETTINGS_FOCUS_SIZE_POWER = "@@SETTINGS_PLAYER_SIZE_POWER",
+    SETTINGS_FOCUS_ALPHA = "@@SETTINGS_PLAYER_ALPHA",
+    SETTINGS_FOCUS_DECIMALS = "@@SETTINGS_PLAYER_DECIMALS",
+    -- party
+    SETTINGS_PARTY_NAME = "Gruppe",
+    SETTINGS_PARTY_ENTRY = "Dies sind Einstellungen die lediglich die Anzeige auf einem Gruppenmitglied anpassen.",
+    SETTINGS_PARTY_PERCENTAGE_HEALTH = "@@SETTINGS_PLAYER_PERCENTAGE_HEALTH",
+    SETTINGS_PARTY_PERCENTAGE_POWER = "@@SETTINGS_PLAYER_PERCENTAGE_POWER",
+    SETTINGS_PARTY_READABLE = "@@SETTINGS_PLAYER_READABLE",
+    SETTINGS_PARTY_SIZE_HEALTH = "@@SETTINGS_PLAYER_SIZE_HEALTH",
+    SETTINGS_PARTY_SIZE_POWER = "@@SETTINGS_PLAYER_SIZE_POWER",
+    SETTINGS_PARTY_ALPHA = "@@SETTINGS_PLAYER_ALPHA",
+    SETTINGS_PARTY_DECIMALS = "@@SETTINGS_PLAYER_DECIMALS"
+}

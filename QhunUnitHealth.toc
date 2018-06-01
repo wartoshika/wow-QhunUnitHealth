@@ -1,0 +1,26 @@
+## Interface: 70300
+## Title: QhunUnitHealth
+## Author: wartoshika <dev@qhun.de>
+## Dependencies: QhunCore
+## Notes: Prints configurable life texts onto the default health bar
+## Version: 2.0.0 beta
+
+global.lua
+
+lang/de.lua
+lang/en.lua
+
+interfaceOptions.lua
+
+classes/frames/abstractUnitFrame.lua
+classes/frames/playerUnitFrame.lua
+classes/frames/targetUnitFrame.lua
+classes/frames/focusUnitFrame.lua
+classes/frames/targetOfTargetUnitFrame.lua
+classes/frames/partyUnitFrame.lua
+classes/ui.lua
+
+tests/ui.test.lua
+tests/qhunUnitHealth.test.lua
+
+core.lua
